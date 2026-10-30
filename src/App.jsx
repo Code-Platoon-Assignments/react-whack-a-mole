@@ -1,6 +1,6 @@
 import './App.css'
 import React, { useEffect, useState } from 'react'
-import Mole from './components/mole/Mole.js'
+import Mole from './components/mole/Mole.jsx'
 
 function App() {
   // states
